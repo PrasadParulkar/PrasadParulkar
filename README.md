@@ -70,7 +70,11 @@ AAC users communicate intent through **gestures and facial expressions**. This s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrasadParulkar&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadParulkar&theme=tokyonight" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrasadParulkar&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrasadParulkar&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
