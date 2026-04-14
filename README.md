@@ -4,7 +4,7 @@
 
 I've been taking Android apart since I got my first Nexus device in eighth grade. What started as flashing ROMs turned into maintaining full custom AOSP builds from scratch: kernel bring-up, device trees, HAL integration, SELinux policies, and everything the BSP layer demands.
 
-Professionally, I spent nearly two years at **MahiTech** as an Associate AOSP Engineer working deep in Android Framework internals: system service debugging, BSP bring-up, and platform-level work across **Qualcomm** and **Rockchip** hardware. I know what lives between the hardware and the framework, and I know how to debug it when it breaks.
+Currently an **Android Developer Intern at Elo Touch Solutions** (Buffalo, NY), customizing AOSP firmware for enterprise POS touchscreen terminals. Previously spent nearly two years at **MahiTech** as an Associate AOSP Engineer doing BSP bring-up and platform-level work across **Qualcomm** and **Rockchip** hardware.
 
 🔍 **Open to full-time AOSP / Android Platform Engineering roles, available June 2026**
 
@@ -93,8 +93,8 @@ AAC users communicate intent through **gestures and facial expressions**. This s
 ## 📫 Reach Me
 
 <p align="left">
-  <a href="mailto:prasadma@buffalo.edu"><img src="https://img.shields.io/badge/Email-prasadma@buffalo.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/prasad-parulkar-b36515180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prasad_Parulkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:parulkarprasad@gmail.com"><img src="https://img.shields.io/badge/Email-parulkarprasad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/prasad-parulkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prasad_Parulkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/PrasadParulkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-PrasadParulkar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
