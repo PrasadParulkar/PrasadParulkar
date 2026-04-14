@@ -94,7 +94,7 @@ AAC users communicate intent through **gestures and facial expressions**. This s
 
 <p align="left">
   <a href="mailto:parulkarprasad@gmail.com"><img src="https://img.shields.io/badge/Email-parulkarprasad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/prasad-parulkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prasad_Parulkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prasad-parulkar-b36515180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prasad_Parulkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/PrasadParulkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-PrasadParulkar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
